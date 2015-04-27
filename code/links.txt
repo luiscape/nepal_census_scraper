@@ -1,0 +1,115 @@
+http://www.un.org.np/data-coll/Demography/60 Census 2011 District Dailekh.xlsx
+http://www.un.org.np/data-coll/Demography/52 Census 2011 District Pyuthan.xlsx
+http://www.un.org.np/data-coll/Demography/17 Census 2011 District Dhanusha.xlsx
+http://www.un.org.np/data-coll/Demography/Nepal Household and Population data at District Level Census 2011 .xls
+http://www.un.org.np/data-coll/Demography/50 Census 2011 District Kapilbastu.xlsx
+http://www.un.org.np/data-coll/Demography/43 Census 2011 District Myagdi.xlsx
+http://www.un.org.np/data-coll/Demography/53 Census 2011 District Rolpa.xlsx
+http://www.un.org.np/data-coll/Demography/Census 2011 Type of Houses.xlsx
+http://www.un.org.np/data-coll/Demography/49 Census 2011 District Rupandehi.xlsx
+http://www.un.org.np/data-coll/Demography/72 Census 2011 District Kanchanpur.xlsx
+http://www.un.org.np/data-coll/Demography/67 Census 2011 District Bajura.xlsx
+http://www.un.org.np/data-coll/Demography/09 Census 2011 District Sankhuwasabha.xlsx
+http://www.un.org.np/data-coll/Demography/10 Census 2011 District Bhojpur.xlsx
+http://www.un.org.np/data-coll/Demography/04 Census 2011 District Jhapa.xlsx
+http://www.un.org.np/data-coll/Demography/74 Census 2011 District Baitadi.xlsx
+http://www.un.org.np/data-coll/Demography/64 Census 2011 District Kalikot.xlsx
+http://www.un.org.np/data-coll/Demography/46 Census 2011 District  Gulmi.xlsx
+http://www.un.org.np/data-coll/Demography/12 Census 2011 District Okhaldhunga.xlsx
+http://www.un.org.np/data-coll/Demography/61 Census 2011 District Jajarkot.xlsx
+http://www.un.org.np/data-coll/Demography/65 Census 2011 District Mugu.xlsx
+http://www.un.org.np/data-coll/Demography/33 Census 2011 District Bara.xlsx
+http://www.un.org.np/data-coll/Demography/34 Census 2011 District Parsa.xlsx
+http://www.un.org.np/data-coll/Demography/35 Census 2011 District Chitwan.xlsx
+http://www.un.org.np/data-coll/Demography/DistricWise Population 2011_v1.xlsx
+http://www.un.org.np/data-coll/Demography/02 Census 2011 District Panchthar.xlsx
+http://www.un.org.np/data-coll/Demography/40 Census 2011 District  Kaski.xlsx
+http://www.un.org.np/data-coll/Demography/71 Census 2011 District Kailali.xlsx
+http://www.un.org.np/data-coll/Demography/37 Census 2011 District  Lamjung.xlsx
+http://www.un.org.np/data-coll/Demography/08 Census 2011 District Tehrathum.xlsx
+http://www.un.org.np/data-coll/Demography/05 Census 2011 District Morang.xlsx
+http://www.un.org.np/data-coll/Demography/45 Census 2011 District Baglung.xlsx
+http://www.un.org.np/data-coll/Demography/25 Census 2011 District Lalitpur.xlsx
+http://www.un.org.np/data-coll/Demography/73 Census 2011 District Dadeldhura.xlsx
+http://www.un.org.np/data-coll/Demography/01 Census 2011 District Taplejung.xlsx
+http://www.un.org.np/data-coll/Demography/44 Census 2011 District Parbat.xlsx
+http://www.un.org.np/data-coll/Demography/16 Census 2011 District Siraha.xlsx
+http://www.un.org.np/data-coll/Demography/26 Census 2011 District Bhaktapur.xlsx
+http://www.un.org.np/data-coll/Demography/51 Census 2011 District Arghakhanchi.xlsx
+http://www.un.org.np/data-coll/Demography/47 Census 2011 District Palpa.xlsx
+http://www.un.org.np/data-coll/Demography/56 Census 2011 District Dang.xlsx
+http://www.un.org.np/data-coll/Demography/58 Census 2011 District Bardiya.xlsx
+http://www.un.org.np/data-coll/Demography/29 Census 2011 District Rasuwa.xlsx
+http://www.un.org.np/data-coll/Demography/21 Census 2011 District Ramechhap.xlsx
+http://www.un.org.np/data-coll/Demography/2011 Household Facilities.xlsx
+http://www.un.org.np/data-coll/Demography/28 Census 2011 District Nuwakot.xlsx
+http://www.un.org.np/data-coll/Demography/30 Census 2011 District Dhading.xlsx
+http://www.un.org.np/data-coll/Demography/66 Census 2011 District Humla.xlsx
+http://www.un.org.np/data-coll/Demography/03 Census 2011 District  Illam.xlsx
+http://www.un.org.np/data-coll/Demography/69 Census 2011 District Achham.xlsx
+http://www.un.org.np/data-coll/Demography/75 Census 2011 District Darchula.xlsx
+http://www.un.org.np/data-coll/Demography/39 Census 2011 District Syangja.xlsx
+http://www.un.org.np/data-coll/Demography/36 Census 2011 District Gorkha.xlsx
+http://www.un.org.np/data-coll/Demography/32 Census 2011 District Rautahat.xlsx
+http://www.un.org.np/data-coll/Demography/14 Census 2011 District Udayapur.xlsx
+http://www.un.org.np/data-coll/Demography/27 Census 2011 District Kathmandu.xlsx
+http://www.un.org.np/data-coll/Demography/18 Census 2011 District Mahottari.xlsx
+http://www.un.org.np/data-coll/Demography/20 Census 2011 District Sindhuli.xlsx
+http://www.un.org.np/data-coll/Demography/13 Census 2011 District Khotang.xlsx
+http://www.un.org.np/data-coll/Demography/23 Census 2011 District Sindhupalchowk.xlsx
+http://www.un.org.np/data-coll/Demography/48 Census 2011 District Nawalparasi.xlsx
+http://www.un.org.np/data-coll/Demography/22 Census 2011 District Dolakha.xlsx
+http://www.un.org.np/data-coll/Demography/15 Census 2011 District Saptari.xlsx
+http://www.un.org.np/data-coll/Demography/62 Census 2011 District Dolpa.xlsx
+http://www.un.org.np/data-coll/Demography/19 Census 2011 District Sarlahi.xlsx
+http://www.un.org.np/data-coll/Demography/11 Census 2011 District Solukhumbu.xlsx
+http://www.un.org.np/data-coll/Demography/70 Census 2011 District Doti.xlsx
+http://www.un.org.np/data-coll/Demography/68 Census 2011 District Bajhang.xlsx
+http://www.un.org.np/data-coll/Demography/38 Census 2011 Distirct Tahanun.xlsx
+http://www.un.org.np/data-coll/Demography/55 Census 2011 District Salyan.xlsx
+http://www.un.org.np/data-coll/Demography/31 Census 2011 District Makawanpur.xlsx
+http://www.un.org.np/data-coll/Demography/59 Census 2011 District Surkhet.xlsx
+http://www.un.org.np/data-coll/Demography/07 Census 2011 District Dhankuta.xlsx
+http://www.un.org.np/data-coll/Demography/57 Census 2011 District Banke.xlsx
+http://www.un.org.np/data-coll/Demography/54 Census 2011 District Rukum.xlsx
+http://www.un.org.np/data-coll/Demography/63 Census 2011 District Jumla.xlsx
+http://www.un.org.np/data-coll/Demography/24 Census 2011 District Kavre.xlsx
+http://www.un.org.np/data-coll/Demography/06 Census 2011 District Sunsari.xlsx
+http://www.un.org.np/data-coll/Demography/42 Census 2011 District Mustang.xlsx
+http://www.un.org.np/data-coll/Demography/41 Census 2011 District Manang.xlsx
+http://www.un.org.np/data-coll/Demography-Publications/Road_Distance_in_Nepal_2068_DoR.xlsx
+http://www.un.org.np/data-coll/Demography-Publications/NepalInfo 2013.mdb
+http://www.un.org.np/data-coll/health/Health Data for Vulnerable 23 Districts.xlsx
+http://www.un.org.np/data-coll/health/Malaria Control(2010-11).xlsx
+http://www.un.org.np/data-coll/health/Vaccination and Coverage(2010-11).xlsx
+http://www.un.org.np/data-coll/health/Districtwise Health Institutions Statistics 2007.xlsx
+http://www.un.org.np/data-coll/health/CPR(2010-11).xlsx
+http://www.un.org.np/data-coll/health/New TB Cases report_Age(2010-11).xlsx
+http://www.un.org.np/data-coll/health/Safe Motherwood(2010-11).xlsx
+http://www.un.org.np/data-coll/health/Treatment Outcome(2009-2010).xlsx
+http://www.un.org.np/data-coll/health/Districtwise Nutrition statistics 2012.xlsx
+http://www.un.org.np/data-coll/Education/Teacher Training Statistics_PL(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/GER  & GIR 2011-012.xlsx
+http://www.un.org.np/data-coll/Education/Total enrollment at all levels_Institutional(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher training status_LS(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total Teachers at all Level_Social_Group(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/School Student Ratio by level(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher by training status_SS(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total Dalit enrollment at all levels(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher By training status_LS(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Student Teacher Ratio(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total enrollment at all levels_Community(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Dropout_Rates_2011-012.xlsx
+http://www.un.org.np/data-coll/Education/Total number of schools (2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher Training Statistics(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher training status_SS(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Student_Disability_Statistics_2011-012.xlsx
+http://www.un.org.np/data-coll/Education/Student Teacher Ratio_Community_School(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total enrollment at all level (2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total Enrollment and GER_ECD_PPC(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/NIR & NER 2011-012.xlsx
+http://www.un.org.np/data-coll/Education/Teacher Training By percentage_PL(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Percentage of New-Entrants in Grade 1(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Teacher Training By percentage(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total Janajati enrollment at all level(2011-012).xlsx
+http://www.un.org.np/data-coll/Education/Total Teachers at all Levels (2011-012).xlsx
